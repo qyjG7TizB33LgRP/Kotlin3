@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kotlin3</string>
+    <string name="delate">delate</string>
+    <string name="delete">Удалить?</string>
+    <string name="no">Нет</string>
+    <string name="yes">Да</string>
+</resources>
